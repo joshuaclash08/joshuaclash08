@@ -1,4 +1,4 @@
 ## 💻 Language
-![python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
+[![Langs](https://skillicons.dev/icons?i=js,html,css,wasm)]
 ## 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaclash08&theme=dracula)](https://github.com/joshuaclash08)
+[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaclash08&theme=dracula)](https://github.com/joshuaclash08)
